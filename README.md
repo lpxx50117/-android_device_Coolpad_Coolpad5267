@@ -1,1 +1,1 @@
-# -android_device_Coolpad_Coolpad5267
+# android_device_Coolpad_Coolpad5267
