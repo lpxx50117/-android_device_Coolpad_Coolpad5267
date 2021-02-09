@@ -1,0 +1,1 @@
+add_lunch_combo omni_Coolpad5267-userdebug
